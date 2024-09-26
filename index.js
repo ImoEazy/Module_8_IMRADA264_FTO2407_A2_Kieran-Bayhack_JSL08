@@ -22,7 +22,6 @@ class BankBranch {
     }
 }
 
-
 // 5. In the usage section:
 //    - Create instances of the `BankBranch` class, such as `branchA` and `branchB`, with different branch information.
 
